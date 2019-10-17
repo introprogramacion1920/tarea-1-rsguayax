@@ -1,1 +1,1 @@
-# realización de diapositivas con explicaciòn de algoritmos del taller grupal
+# realización de diapositivas con explicación de algoritmos del taller grupal
